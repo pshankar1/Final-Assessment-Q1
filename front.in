@@ -1,0 +1,30 @@
+while (greetin){
+  greet("Hey Hey!");
+}
+switch(key){
+  case 1:
+  greet("yEEEE",1);
+}
+for (int i = 0; i < 5; i++){
+  greet("Tslh!!");
+}
+if (heybbb == True) {
+  return 1;
+}
+switch (key) {
+  case 1:
+    greet("yuh", 1);
+    break;
+  case 2:
+    greet("yuh", 2);
+    break;
+  case 3:
+    greet("yuh", 3);
+    break;
+}
+foreach (int i in items){
+  greet ("heyo bb");
+}
+dowhile {
+  greet("hey hey!");
+} (period)
